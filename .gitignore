@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SB.CarsCatalog.Api/bin/Debug/netcoreapp2.1
+/.vs/SB.CarsCatalog/v15/Server/sqlite3
+/SB.CarsCatalog.Api/obj
